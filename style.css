@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  height: 100vh;
+
+  font-family: Helvetica neue, roboto;
+}
+
+.hot {
+  color: red
+}
+
+.cool {
+  color:blue
+}
